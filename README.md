@@ -1,2 +1,2 @@
 # rsschool-cv 
-https://github.com/milkosofiia/rsschool-cv.git
+https://milkosofiia.github.io/rsschool-cv/
