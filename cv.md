@@ -5,7 +5,7 @@
 * Email: milko.sofia1488@gmail.com
 * GitHub: milkosofiia
 ## About me
-I am a sociable and responsible person. Flexibility and quick learning gives me the opportunity to develop quickly in the chosen field of work.
+I am a sociable and responsible person.Flexibility and quick learning gives me the opportunity to develop quickly in the chosen field of work.
 ## Skills
 * GitHub
 * Git
