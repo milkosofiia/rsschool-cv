@@ -18,6 +18,5 @@ not yet
 ### Courses:
 - RsSchool
 - Fast English
-- Good Seller
 ## English
 A2 - I studied English at university and practiced at work abroad.
