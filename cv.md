@@ -9,6 +9,8 @@ I am a sociable and responsible person.Flexibility and quick learning gives me t
 ## Skills
 * GitHub
 * Git
+* HTML
+* CSS
 ## Code Example
 not yet
 ## Expirience
